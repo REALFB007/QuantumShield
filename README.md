@@ -1,8 +1,6 @@
 # QuantumShield  
 **Post-Quantum Cryptography Vulnerability Scanner**
 
-![QuantumShield Banner](https://via.placeholder.com/1200x300/0d1117/00ff9d?text=QuantumShield+-+Secure+the+Future)  
-*(Replace with your own banner image if you want — or delete this line)*
 
 A powerful, easy-to-use tool that scans websites for **Shor-vulnerable** cryptographic algorithms (RSA, ECC, ECDH) and recommends migration to **quantum-safe** alternatives like **Kyber** and **Dilithium**.
 
