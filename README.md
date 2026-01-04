@@ -19,11 +19,11 @@ Built for the quantum era — detect today's risks before quantum computers brea
 - Clean Flask web interface
 
 ##  Demo Video
-
+<video controls width="800">
 <a href="Quantum2.gif">
   <img src="quantum.jpg" alt="Click to play QuantumSecure demo video" width="900" style="cursor: pointer; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/>
 </a>
-
+</video>
 ## Quick Start
 
 ```bash
