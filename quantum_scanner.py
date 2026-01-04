@@ -1,10 +1,10 @@
-# quantum_scanner.py — FINAL DNS FIX
+# quantum_scanner.py 
 import subprocess
 import re
 
 def scan_quantum_risk(url):
     try:
-        # Strip http/https
+        
         host = url.replace("https://", "").replace("http://", "").split('/')[0]
         
         result = subprocess.run([
